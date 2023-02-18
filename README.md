@@ -2,11 +2,11 @@
 
 ***WORK IN PROGRESS***
 
-As of right now, I only have the uploads for my portfolio and one of my projects. 
+As of right now, I only have the upload for one of my projects. 
 
-I am working on getting my previous projects from high school to work on github with the stylesheet. 
+I am working on getting my previous projects from high school to work on github with the stylesheet and my portfolio. 
 
-*********************************************************************************************************
+***********************************************************************************************************************
 
 Welcome to my GitHub :)
 
@@ -15,7 +15,7 @@ I am currently majoring in Computer Science and wanting to pursue a career in Fu
 I am currently more aware of front-end applications and in the progress of learning more back-end to 
 have some knowledge ready for my internships, and hopefully, my future career. 
 
-Please enjoy scrolling and downloading my files to view my project(s) and/or portfolio :)
+Please enjoy scrolling and downloading my files to view my project(s) :)
 
 ***INSTRUCTIONS ON HOW TO OPEN THE ZIP FILES***
 
@@ -26,6 +26,6 @@ When you click on the file for the folder, you can view any of the HTML files th
 would recommend clicking the ones that say index.html since it is the first webpage page :) but if there 
 is only one HTML file, just click on that :))
 
-*********************************************************************************************************
+***********************************************************************************************************************
 
 Enjoy!!
